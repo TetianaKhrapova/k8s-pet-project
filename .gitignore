@@ -1,0 +1,22 @@
+# Логи
+*.log
+
+# Файли тимчасові
+*.tmp
+*.swp
+
+# IDE / редактори
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Minikube локальні файли
+.kube/
+.minikube/
+
+# Python / Flask
+__pycache__/
+*.pyc
+env/
+venv/
