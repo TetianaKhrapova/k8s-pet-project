@@ -14,9 +14,13 @@
 # Minikube локальні файли
 .kube/
 .minikube/
+minikube-linux-amd64
+
+
 
 # Python / Flask
 __pycache__/
 *.pyc
 env/
 venv/
+minikube-linux-amd64
